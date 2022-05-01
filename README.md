@@ -1,4 +1,4 @@
-# Assignment 2 - News Application
+# News Application
 
 ## Summary:
 A news application. It starts/stops a service. If the internet connection is available, then the
@@ -45,3 +45,9 @@ The rest of the content is optional and is for the bonus.
 https://www.tutorialspoint.com/android/android_json_parser.htm
 2. JSON Parsing for Android in Kotlin :
 https://www.geeksforgeeks.org/json-parsing-in-android/
+  
+## Screenshots:
+<p> 
+  <img src="https://github.com/PentiumYG/News_Application/blob/Assignment-2/Screenshot-2.jpeg", width="250">
+  <img src="https://github.com/PentiumYG/News_Application/blob/Assignment-2/Screenshot-1.jpeg", width="250">
+</p>
